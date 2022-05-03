@@ -1,0 +1,52 @@
+body {
+background-color: rgb(246, 250, 27);
+}
+.pealkiri {
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+}
+.pilt {
+    border: 2px solid #5a4d21b9;
+    margin: 0 auto;
+    width: 25%;
+    padding-left: 35px;
+}
+.ingredients {
+    border: 2px solid #5a4d21b9;
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family:  'Lobster Two', cursive;
+    color:rgba(180, 145, 28, 0.726);
+}
+.ingredients-table {
+    border: 2px solid #5a4d21b9;
+    margin: 0 auto;
+    font-family:  'Lobster Two', cursive;;
+}
+.instructions {
+    border: 2px solid #5a4d21b9;
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family:  'Lobster Two', cursive;;
+    color:rgba(180, 145, 28, 0.726);
+}
+.instructions ol {
+    border: 2px solid #5a4d21b9;
+    margin: 0 auto;
+    width: 55%;
+    font-family: 'Lobster Two', cursive;
+}
+.lõppsõna {
+    font-family: 'Lobster Two', cursive;
+    font-size:medium;
+    text-align: center;
+}
+.footer {
+    font-family: 'Lobster Two', cursive;
+    font-size: smaller;
+    text-align: center;
+}
